@@ -5,7 +5,7 @@ Após a análise, um modelo é treinado para realizar algumas predições.
 
 ### Integrantes
 Inajaha Costa Vilas Boas - GES318
-inajaha.costa@ges.inatel.br
+E-mail: inajaha.costa@ges.inatel.br
 
 Matheus Augusto Braga Pivoto  - GEC1711
 E-mail: matheus_pivoto@gec.inatel.br
